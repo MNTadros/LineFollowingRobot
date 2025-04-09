@@ -39,6 +39,11 @@ Select the **Follow Line** exercise from the interface.
 
 Check out the demo video to see the Line Following Robot in action!
 
+<video controls width="100%">
+    <source src="https://www.youtube.com/embed/dnI6DV_M8ws" type="video/mp4">
+    Your browser does not support the video tag. Click [here](https://youtu.be/dnI6DV_M8ws) to watch the demo.
+</video>
+
 ---
 
 For more details, visit the [Robotics Academy documentation](https://jderobot.github.io/RoboticsAcademy/exercises/AutonomousCars/follow_line/).

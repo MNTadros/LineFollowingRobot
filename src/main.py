@@ -78,3 +78,4 @@ while True:
 
     # Display the frame (with overlayed contours and centroid)
     GUI.showImage(processed_frame)
+   
