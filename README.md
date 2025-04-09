@@ -39,10 +39,9 @@ Select the **Follow Line** exercise from the interface.
 
 Check out the demo video to see the Line Following Robot in action!
 
-<video controls width="100%">
-    <source src="https://www.youtube.com/embed/dnI6DV_M8ws" type="video/mp4">
-    Your browser does not support the video tag. Click [here](https://youtu.be/dnI6DV_M8ws) to watch the demo.
-</video>
+The demo is running at 3X speed for a better viewing experience.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dnI6DV_M8ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
