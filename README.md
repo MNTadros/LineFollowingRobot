@@ -41,7 +41,8 @@ Check out the demo video to see the Line Following Robot in action!
 
 The demo is running at 3X speed for a better viewing experience.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/dnI6DV_M8ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Line Following Robot Demo](https://img.youtube.com/vi/dnI6DV_M8ws/0.jpg)](https://youtu.be/dnI6DV_M8ws)
+
 
 ---
 
