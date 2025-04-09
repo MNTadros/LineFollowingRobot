@@ -43,7 +43,6 @@ The demo is running at 3X speed for a better viewing experience.
 
 [![Line Following Robot Demo](https://img.youtube.com/vi/dnI6DV_M8ws/0.jpg)](https://youtu.be/dnI6DV_M8ws)
 
-
 ---
 
 For more details, visit the [Robotics Academy documentation](https://jderobot.github.io/RoboticsAcademy/exercises/AutonomousCars/follow_line/).
